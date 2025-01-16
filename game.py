@@ -291,5 +291,6 @@ while running:
     if player.hp <= 0:
         print("Jesus Christ, how are you this bad? You loser. Imagine dying lmfaooooooooooo")
         break
+    print() # haha spacing go brr
 print("The game ends here, thanks for trying out my little thing. Hope it was a fun time killer")
 p = input("Press ENTER to quit")
